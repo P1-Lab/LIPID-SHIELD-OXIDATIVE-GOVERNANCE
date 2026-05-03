@@ -1,0 +1,13 @@
+Bin_Microns,Frequency_Percentage,Cumulative_Passing_Percentage,Statistical_Marker
+0.5,2.4,2.4,
+1.0,8.2,10.6,
+1.5,12.5,23.1,
+2.0,18.9,42.0,Mean_Particle_Size
+2.5,22.1,64.1,
+3.0,15.8,79.9,
+3.5,9.4,89.3,
+4.0,5.2,94.5,D90_Threshold
+4.5,3.1,97.6,
+5.0,1.4,99.0,Maximum_Functional_Limit
+5.5,0.7,99.7,
+6.0,0.3,100.0,Outlier_Limit
