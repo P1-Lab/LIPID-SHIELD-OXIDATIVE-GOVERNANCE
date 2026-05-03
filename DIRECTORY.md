@@ -11,7 +11,7 @@
 │   └── Particle_Distribution.csv  # D90 &lt; 5µm Mathematical Modeling
 ├── BENCH_DATA                     # Accelerated Shelf-Life Evidence
 │   ├── OIT_Graphs_High_Fat.md    # Oxidative Induction Time (2–4× extension)
-│   ├── PV_Velocity_Logs.xlsx      # Peroxide Value &lt; 1.0 meq/kg Benchmarks
+│   ├── PV_Velocity_Logs.md      # Peroxide Value &lt; 1.0 meq/kg Benchmarks
 │   └── Hexanal_Suppression.md     # Secondary Oxidation Decay Analytics
 ├── LEGAL_FRAMEWORK                # Defensive IP &amp; Regulatory Moat
 │   ├── PPA_Draft_Pillar_10.md    # Provisional Patent Application Draft
